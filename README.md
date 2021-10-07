@@ -1,2 +1,2 @@
 # cmepda_basic_3
-Asseignment number 3 of the first (basic) part of the cmepda course
+Create a ProbabilityDistribution class able to throw pseudo-random number from a user-defined pdf.  
